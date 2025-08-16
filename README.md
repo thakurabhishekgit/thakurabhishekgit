@@ -37,7 +37,7 @@
 - MongoDB (NoSQL for scalable apps)  
 - PostgreSQL (relational DB for SaaS projects)  
 - MySQL (structured storage & queries)
-- - Redis (in-memory caching, session management, pub/sub) 
+- Redis (in-memory caching, session management, pub/sub) 
 
 **🤖 Machine Learning & AI:**  
 - Scikit-learn (Logistic Regression, Decision Trees, K-Means)  
