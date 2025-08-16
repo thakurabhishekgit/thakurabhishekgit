@@ -16,8 +16,6 @@
 
 ## 🛠️ Tech Stack  
 
-
-
 **💻 Programming Languages:**  
 - Java (Spring Boot, Backend APIs)  
 - JavaScript (Frontend + Backend)  
@@ -45,11 +43,14 @@
 - TensorFlow (deep learning models & predictions)  
 - Genkit (AI integrations for content generation)  
 
-**🛠 DevOps & Deployment:**  
-- Docker (containerization of backend & ML APIs)  
-- Render (backend & DB deployment)  
-- Vercel (frontend hosting & CI/CD)  
-- Git & GitHub (version control, collaboration, CI pipelines)  
+**☁️ DevOps & Deployment:**  
+- **Docker** (containerization of backend & ML APIs)  
+- **Kubernetes** (orchestration and scaling of containers)  
+- **AWS EC2** (cloud server deployment & instance management)  
+- **Linux** (server configuration, shell scripting, deployment automation)  
+- **Render** (backend & DB deployment)  
+- **Vercel** (frontend hosting & CI/CD)  
+- **Git & GitHub** (version control, collaboration, CI pipelines)  
 
 **🔧 Tools & IDEs:**  
 - Postman (API testing)  
