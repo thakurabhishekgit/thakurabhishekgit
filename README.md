@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Thakur Abhishek Singh  
+7# 👋 Hi, I’m Thakur Abhishek Singh  
 
 🚀 Full-stack Web Developer passionate about building robust backend systems with **Spring Boot**, creating **responsive frontends with React**, and integrating **AI/ML models into real-world applications**.  
 
@@ -74,7 +74,7 @@
 ### 📚 [Knowable.AI: AI-Powered Academic Assistant](https://github.com/thakurabhishekgit/Knowable-Frontend)  
 🔹 **Live Demo:** [knowable-ai.vercel.app](https://knowable-ai.vercel.app/)  
 - Transforms static documents into **interactive study materials** using **AI**.  
-- Features: **Document chatbot, quiz/flashcard generator, past-paper analysis** powered by Google Gemini.  
+- Features: **Document chatbot, quiz/flashcard generator, past-paper analysis**
 - **Tech:** React, Spring Boot, PostgreSQL, Docker, Render, Vercel  
 - Designed a **scalable backend with JWT auth** and modern **CI/CD pipeline**.
 
