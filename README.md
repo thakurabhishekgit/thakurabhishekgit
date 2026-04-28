@@ -29,12 +29,12 @@ Programming Languages:
 - React Router DOM (routing)  
 - Axios (API integration)  
 
-  Backend:
+ Backend:
 - Spring Boot (MVC, REST APIs, JPA, Security, JWT Authentication)  
 - Node.js & Express.js (RESTful services, authentication, middleware)  
 - Flask (Python API integration for ML models)  
 
-  Databases:
+ Databases:
 - MongoDB (NoSQL for scalable apps)  
 - PostgreSQL (relational DB for SaaS projects)  
 - MySQL (structured storage & queries)
@@ -55,7 +55,7 @@ Programming Languages:
 - Vercel (frontend hosting & CI/CD)  
 - Git & GitHub (version control, collaboration, CI pipelines)  
 
-** Tools & IDEs:**  
+ Tools & IDEs:
 - Postman (API testing)  
 - IntelliJ IDEA, VS Code, Eclipse (development environments)  
 - Maven (Java project management & builds)  
