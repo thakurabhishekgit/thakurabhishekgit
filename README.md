@@ -17,43 +17,43 @@
 
 ##  Tech Stack  
 
-** Programming Languages:**  
+Programming Languages:
 - Java (Spring Boot, Backend APIs)  
 - JavaScript (Frontend + Backend)  
 - Python (Machine Learning, Flask APIs , FastAPI)  
 - C (Problem solving, core programming concepts)  
 
-** Frontend:**  
+ Frontend:  
 - React.js (component-based UI)  
 - Tailwind CSS (modern styling)  
 - React Router DOM (routing)  
 - Axios (API integration)  
 
-** Backend:**  
+  Backend:
 - Spring Boot (MVC, REST APIs, JPA, Security, JWT Authentication)  
 - Node.js & Express.js (RESTful services, authentication, middleware)  
 - Flask (Python API integration for ML models)  
 
-** Databases:**  
+  Databases:
 - MongoDB (NoSQL for scalable apps)  
 - PostgreSQL (relational DB for SaaS projects)  
 - MySQL (structured storage & queries)
 - Redis (in-memory caching, session management, pub/sub) 
 
-** Machine Learning & AI:**  
+ Machine Learning & AI: 
 - Scikit-learn (Logistic Regression, Decision Trees, K-Means)  
 - TensorFlow (deep learning models & predictions)  
 - Genkit (AI integrations for content generation)
 - RAG (LangChain , FIASS , GeminiLLM)  
 
-** DevOps & Deployment:**  
-- **Docker** (containerization of backend & ML APIs)  
-- **Kubernetes** (orchestration and scaling of containers)  
-- **AWS EC2** (cloud server deployment & instance management)  
-- **Linux** (server configuration, shell scripting, deployment automation)  
-- **Render** (backend & DB deployment)  
-- **Vercel** (frontend hosting & CI/CD)  
-- **Git & GitHub** (version control, collaboration, CI pipelines)  
+ DevOps & Deployment:  
+- Docker (containerization of backend & ML APIs)  
+- Kubernetes (orchestration and scaling of containers)  
+- AWS EC2 (cloud server deployment & instance management)  
+- Linux (server configuration, shell scripting, deployment automation)  
+- Render (backend & DB deployment)  
+- Vercel (frontend hosting & CI/CD)  
+- Git & GitHub (version control, collaboration, CI pipelines)  
 
 ** Tools & IDEs:**  
 - Postman (API testing)  
