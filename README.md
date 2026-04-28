@@ -73,7 +73,7 @@ Programming Languages:
 
 ---
 
-###  [Knowable.AI: AI-Powered Academic Assistant](https://github.com/thakurabhishekgit/Knowable-Frontend)  
+###  [Knowable.AI: AI-Powered Academic Assistant](https://github.com/thakurabhishekgit/Knowable.AI)  
 🔹 **Live Demo:** [knowable-ai.vercel.app](https://knowable-ai.vercel.app/)  
 - Transforms static documents into **interactive study materials** using **AI**.  
 - Features: **Document chatbot, quiz/flashcard generator, past-paper analysis**
