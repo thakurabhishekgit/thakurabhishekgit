@@ -20,7 +20,7 @@
 **💻 Programming Languages:**  
 - Java (Spring Boot, Backend APIs)  
 - JavaScript (Frontend + Backend)  
-- Python (Machine Learning, Flask APIs)  
+- Python (Machine Learning, Flask APIs , FastAPI)  
 - C (Problem solving, core programming concepts)  
 
 **🖥️ Frontend:**  
@@ -43,7 +43,8 @@
 **🤖 Machine Learning & AI:**  
 - Scikit-learn (Logistic Regression, Decision Trees, K-Means)  
 - TensorFlow (deep learning models & predictions)  
-- Genkit (AI integrations for content generation)  
+- Genkit (AI integrations for content generation)
+- RAG (LangChain , FIASS , GeminiLLM)  
 
 **☁️ DevOps & Deployment:**  
 - **Docker** (containerization of backend & ML APIs)  
