@@ -1,5 +1,4 @@
 #  Hi, I’m Thakur Abhishek Singh  
-
  Full-stack Web Developer passionate about building robust backend systems with **Spring Boot**, creating **responsive frontends with React**, and integrating **AI/ML models into real-world applications**.  
 
  Based in Hyderabad, India  
